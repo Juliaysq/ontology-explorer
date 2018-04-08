@@ -3,7 +3,7 @@
 
 ### Overview
 
-This is the Explorer project for the Ontology blockchain. The project bases on  front and back separation framework.The Explorer back-end bases on Spring boot framework ,it synchronizes block and transaction information to the local database and provides Restful API for the Explorer front-end or DApp. The Explorer front-end bases on Vue framework . 
+This is the Explorer project for the Ontology blockchain. The project is based on front and back separation framework. The Explorer back-end is based on Spring boot framework, it synchronizes block and transaction information to the local database and provides Restful API for the Explorer front-end or DApp. The Explorer front-end is based on Vue framework. 
 
 ### Installation Environment
 
